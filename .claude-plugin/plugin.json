@@ -1,0 +1,12 @@
+{
+  "name": "embedded-skills",
+  "description": "AI assistant skills for production-grade embedded firmware engineering — covers architecture, C coding style, driver design, RTOS design, ISR design, and documentation for STM32, GD32, ESP32 and similar MCU platforms.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rovinax",
+    "url": "https://github.com/rovinax"
+  },
+  "repository": "https://github.com/rovinax/embedded-skills",
+  "license": "MIT",
+  "keywords": ["embedded", "firmware", "STM32", "FreeRTOS", "MCU", "C", "RTOS", "driver", "ISR", "architecture"]
+}
